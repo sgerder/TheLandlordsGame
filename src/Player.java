@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Player {
     String name;
-    ArrayList<> portfolio = new ArrayList<>();
+    ArrayList<Plot> portfolio = new ArrayList<Plot>();
     int wealth;
     int turnOrderPosition;
 
